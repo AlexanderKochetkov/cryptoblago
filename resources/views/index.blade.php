@@ -38,8 +38,6 @@
 
 @yield('content')
 
-<button id="testWeb">TEST WEB3</button>
-
 <script src="{{ mix('/js/app.js') }}"></script>
 </body>
 </html>
